@@ -1,57 +1,30 @@
-<header>
-
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
-
-# Oi me chamo Joao Maia Reis
-
-Sou estudante de Ciência da Computação
-
-Entre em contato via https://www.linkedin.com/in/joao-maia-reis-36a515365?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-</header>
-
-<!--
-  <<< Author notes: Course start >>>
-  Include start button, a note about Actions minutes,
-  and tell the learner why they should take the course.
--->
-
-## Minhas especialidades
-
-Essa sao algumas das minhas habilidades:
-
-- **Programacao em python.
-- **Conhecimento de banco de dados.
-- **Websites.
-- **Dominio da ligua inglesa.
+###  🚀 Jedro Maia Reis
 
 
-<!-- For start course, run in JavaScript:
-'https://github.com/new?' + new URLSearchParams({
-  template_owner: 'skills',
-  template_name: 'github-pages',
-  owner: '@me',
-  name: 'skills-github-pages',
-  description: 'My clone repository',
-  visibility: 'public',
-}).toString()
--->
+## 👋 Sobre mim
+Sou estudante de Ciência da Computação, no primeiro semestre, apaixonado por tecnologia e aprendizado contínuo. Aqui compartilho projetos, estudos e desafios que desenvolvo ao longo da minha formação acadêmica e prática.
+
+## 💡 Interessado em:
+
+Desenvolvimento de Software
+
+Lógica de Programação
+
+Web Development
+
+Banco de Dados
+
+## 📫 Conecte-se comigo no LinkedIn
+www.linkedin.com/in/joao-maia-reis-36a515365/
 
 
+## 🛠️ Habilidades
+✅ Programação em Python
 
+✅ Conhecimento básico em Banco de Dados (SQL)
 
+✅ Desenvolvimento de Websites (HTML, CSS, JS básico)
 
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
+✅ Domínio da Língua Inglesa
 
 
