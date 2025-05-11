@@ -1,4 +1,4 @@
-###  🚀 Jedro Maia Reis
+###  🚀 Joao Maia Reis
 
 
 ## 👋 Sobre mim
